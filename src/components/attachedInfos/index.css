@@ -1,0 +1,58 @@
+.upload-files-container {
+  height: 100%;
+}
+
+.new-file-input {
+  margin-top: 20px;
+}
+
+.upload-file-select {
+  position: relative;
+}
+
+.upload-button {
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  padding: 0px;
+  float: right;
+}
+
+.new-file-group {
+  margin: 20px;
+}
+
+.file-group input {
+  margin-right: 10px;
+  height: 20px;
+  vertical-align: middle;
+}
+.uploaded-file-list p {
+  margin-bottom: 5px;
+}
+
+.group-title {
+  font-weight: bold;
+}
+
+.file-name {
+  color: #44929c;
+  text-decoration: underline;
+}
+.file-name:hover {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.file-description {
+  font-style: oblique;
+}
+
+.uploaded-file-list .container {
+  max-height: 700px;
+  overflow-y: scroll;
+  margin-top: 20px;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+  padding-top: 20px;
+}

@@ -1,0 +1,41 @@
+.box-container {
+  border: 1px solid #bfbfbf;
+  box-shadow: 5px 10px 8px #888888;
+  min-height: 300px;
+  padding: 20px;
+  margin: 20px 0px;
+}
+
+.box-container .title {
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: bold;
+  text-align: left;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.inline-group {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.form-label {
+  width: 30%;
+  line-height: 30px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.input-infos {
+  width: 70%;
+}
+
+.warning-info {
+  color: red;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+#hidden {
+  display: none;
+}

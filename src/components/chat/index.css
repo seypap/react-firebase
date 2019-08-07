@@ -1,0 +1,24 @@
+.add-comment-btn {
+  width: 100px;
+  height: 30px;
+  padding: 0px;
+  float: right;
+}
+.comment-list-table th:first-child {
+  width: 30%;
+}
+.comment-list-table th:nth-child(2) {
+  width: 30%;
+}
+.comment-list-table th:nth-child(3) {
+  width: 40%;
+}
+.comment-list-table thead {
+  background: #d1dade;
+}
+.comment-list-table tbody td {
+  vertical-align: middle;
+}
+.comment-list-container {
+  margin-top: 50px;
+}
