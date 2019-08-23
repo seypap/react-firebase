@@ -8,7 +8,6 @@ import News from '../../components/news';
 import Chat from '../../components/chat';
 import AttachedInfos from '../../components/attachedInfos';
 import '../../styles/global.css';
-
 import './index.css';
 
 class MainPage extends React.Component {
